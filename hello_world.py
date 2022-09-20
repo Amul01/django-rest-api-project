@@ -1,0 +1,1 @@
+print('Hello world! Complete it good and fast.')
